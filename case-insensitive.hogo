@@ -1,0 +1,32 @@
+; Case sensitivity test (using [SPONGEBOB MOCKING] text)
+; This works in turtle academy, but is not technically Hogo-conforming. 
+; This test may or may not pass according to how you have chosen to implement your parser. 
+; (Either way is fine!)
+RePeAt 4 [
+  fOrWaRd 200
+  rIgHt 90
+]
+LeFt 135
+fOrWaRd 100
+rIgHt 135
+rEpEaT 4 [
+  FoRwArD 200
+  RiGhT 90
+]
+pEnUp
+fOrWaRd 200
+pEnDoWn
+rIgHt 45
+FoRwArD 100
+PeNuP
+RiGhT 45
+fOrWaRd 200
+pEnDoWn
+rIgHt 135
+fOrWaRd 100
+pEnUp
+lEfT 45
+fOrWaRd 200
+pEnDoWn
+lEfT 135
+FoRwArD 100

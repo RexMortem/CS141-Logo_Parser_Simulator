@@ -1,0 +1,11 @@
+; A simple program written using forward, back, left, and right.
+
+color red ; color worm!
+forward 100
+right 90
+forward 20
+color blue ; blue worm now!
+right 90
+forward 100
+left 90
+back 50

@@ -1,0 +1,11 @@
+cradle:
+  multi:
+    - path: "./"
+      config:
+        cradle:
+          stack:
+            - path: "./src"
+              component: "cswk-hurtle:lib"
+
+            - path: "./test"
+              component: "cswk-hurtle:test:cswk-hurtle-test"
